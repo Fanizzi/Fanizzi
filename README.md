@@ -3,8 +3,8 @@
 
 ## I'm a Student and Developer :D
 
-- 🌱 I’m currently learning PHP, C#, WinForm, Xamarin and Python
-- 🥅 2022 Goals: Learn more about OOP
+- 🌱 I’m currently learning PHP, JavaScript, C#, WinForm & Xamarin
+- 🥅 2023 Goals: Learn more about OOP
 - ⚡ Fun fact: I love to listen music and play video-games :3
 
 ### Languages and Tools:
